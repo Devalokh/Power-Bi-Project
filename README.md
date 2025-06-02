@@ -1,6 +1,6 @@
 # Power-Bi-Project
 
-Project portfolio about financial data set
+# Project portfolio about financial data set
 # Financial report
 1. 7 visuals created in financial report
 2. sales view report for each year 
